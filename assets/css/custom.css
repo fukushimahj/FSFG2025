@@ -1,6 +1,6 @@
 /* ヘッダーを画像に置き換える */
 .page-header {
-  background: url("/assets/img/header3.png") no-repeat center center;
+  background: url("/assets/img/header3.jpg") no-repeat center center;
   background-size: cover;
   color: white; /* 文字が見やすいように白に */
 }
