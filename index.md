@@ -2,18 +2,18 @@
 layout: default
 ---
 
-# <span style="color:#696969;">日程</span>
+<span style="color:#696969;">日程</span>
 
 2025年12月1日（月）- 12月3日（水）
 
 
-# <span style="color:#696969;">場所</span>
+<span style="color:#696969;">場所</span>
 
 福井駅東口の[AOSSA（アオッサ）](http://www.aossa.jp/)6階607 
 
 
 
-# <span style="color:#696969;">開催趣旨</span>
+<span style="color:#696969;">開催趣旨</span>
 
 本研究会は、宇宙初期の天体形成・進化に関連した研究の現状を総括し、今後の課題について議論を交わし研究を発展させることを目的に、毎年開催しているものです。研究会の話題は初代星・初代銀河に限らず、
 
@@ -27,7 +27,7 @@ layout: default
 
 
 
-# <span style="color:#696969;">基調講演者（50音順・敬称略）</span>
+<span style="color:#696969;">基調講演者（50音順・敬称略）</span>
 
 - 泉拓磨（国立天文台）：巨大ブラックホール観測（ALMA観測を中心に）
 - 今井拓哉（福井県立大学）：恐竜
@@ -40,17 +40,17 @@ layout: default
 - 松本達矢（東京大学）：潮汐破壊現象
 - 安井千香子（国立天文台）：銀河外縁部・低金属量環境の星形成
 
-# <span style="color:#696969;">研究会世話人</span>
+<span style="color:#696969;">研究会世話人</span>
 
 谷川衝 (福井県立大学: LOC), 梅村雅之 (筑波大学), 大向一行 (東北大学), 衣川智弥(信州大学), 杉村和幸 (北海道大学), 須佐元 (甲南大学), 千秋元(高知高専), 鄭昇明 (MPIA), 冨永望 (国立天文台), 平野信吾 (神奈川大学), 福島肇 (筑波大学), 細川隆史(京都大学), 町田正博 (九州大学), 吉田直紀 (東京大学)
 
 
 
-# <span style="color:#696969;">問い合わせ</span>
+<span style="color:#696969;">問い合わせ</span>
 
 福島肇（筑波大学）fukushima_at_ccs.tsukuba.ac.jp
 
 
 
-# <span style="color:#696969;">INFORMATION 
+<span style="color:#696969;">INFORMATION 
 
