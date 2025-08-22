@@ -2,122 +2,55 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# <span style="color:#696969;">日程</span>
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+2025年12月1日（月）- 12月3日（水）
 
 
-### Definition lists can be used with HTML syntax.
+# <span style="color:#696969;">場所</span>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+福井駅東口の[AOSSA（アオッサ）](http://www.aossa.jp/)6階607 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+
+# <span style="color:#696969;">開催趣旨</span>
+
+本研究会は、宇宙初期の天体形成・進化に関連した研究の現状を総括し、今後の課題について議論を交わし研究を発展させることを目的に、毎年開催しているものです。研究会の話題は初代星・初代銀河に限らず、
+
+- 巨大ブラックホールの起源とその成長
+- 宇宙再電離
+- ライマンアルファ輝線天体・ガンマ線バーストなどの高赤方偏移天体
+- 重力波源として観測されているブラックホール連星合体
+- 現在のハローや矮小銀河中の低金属星
+
+など研究の進展と共に広がっています。さらに今年は全国初の恐竜学部が新設された福井県立大学が主催ということで「初代星から生命へ」を副題としています。惑星形成、系外惑星、恐竜のような地球生命などの話題も取り上げ、宇宙史から地球史まで貫くことで、初代星初代銀河研究の新たな地平を切り拓くことを目標にしています。この分野に興味がある・これから研究を始めたいと考えている方々の参加も歓迎いたします。奮ってご参加頂けますよう、よろしくお願いします。
+
+
+
+# <span style="color:#696969;">基調講演者（50音順・敬称略）</span>
+
+- 泉拓磨（国立天文台）：巨大ブラックホール観測（ALMA観測を中心に）
+- 今井拓哉（福井県立大学）：恐竜
+- 大橋聡史（東京大学）：原始惑星系円盤
+- 川島由依（京都大学）：系外惑星大気
+- 須佐元（甲南大学）：初代星理論
+- 中島王彦（金沢大学）：初代星・初代銀河観測
+- 平居悠（東北公益文科大学）：銀河考古学
+- 福島肇（筑波大学）：星団形成
+- 松本達矢（東京大学）：潮汐破壊現象
+- 安井千香子（国立天文台）：銀河外縁部・低金属量環境の星形成
+
+# <span style="color:#696969;">研究会世話人</span>
+
+谷川衝 (福井県立大学: LOC), 梅村雅之 (筑波大学), 大向一行 (東北大学), 衣川智弥(信州大学), 杉村和幸 (北海道大学), 須佐元 (甲南大学), 千秋元(高知高専), 鄭昇明 (MPIA), 冨永望 (国立天文台), 平野信吾 (神奈川大学), 福島肇 (筑波大学), 細川隆史(京都大学), 町田正博 (九州大学), 吉田直紀 (東京大学)
+
+
+
+# <span style="color:#696969;">問い合わせ</span>
+
+福島肇（筑波大学）fukushima_at_ccs.tsukuba.ac.jp
+
+
+
+# <span style="color:#696969;">INFORMATION 
+
