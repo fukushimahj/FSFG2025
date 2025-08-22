@@ -1,0 +1,14 @@
+/* ヘッダーを画像に置き換える */
+.page-header {
+  background: url("/assets/img/header3.png") no-repeat center center;
+  background-size: cover;
+  color: white; /* 文字が見やすいように白に */
+}
+
+/* タイトルとサブタイトルの文字に影を付けると見やすい */
+.project-name,
+.project-tagline {
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+
