@@ -7,3 +7,5 @@ sass:
   style: compressed
 plugins:
   - jekyll-sitemap
+header_pages:
+  - index.md

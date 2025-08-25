@@ -1,4 +1,5 @@
 ---
+permalink: /registration
 layout: default
 title: 参加登録/Registration
 description: 期限

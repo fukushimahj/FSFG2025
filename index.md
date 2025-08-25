@@ -1,5 +1,7 @@
 ---
+permalink: /
 layout: default
+title: ホーム 
 ---
 
 <span style="font-size: 150%; color:#696969;">日程</span>
