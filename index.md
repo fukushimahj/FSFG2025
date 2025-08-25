@@ -53,6 +53,9 @@ layout: default
 
 <br>
 
+<span style="font-size: 150%; color:#696969;">INFORMATION</span>
+
+<br>
 
 <span style="font-size: 150%; color:#696969;">問い合わせ</span>
 
@@ -60,10 +63,6 @@ layout: default
 
 <br>
 
-
-<span style="font-size: 150%; color:#696969;">INFORMATION</span>
-
-<br>
 
 <span style="font-size: 150%; color:#696969;">謝辞</span>
 
