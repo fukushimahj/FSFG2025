@@ -61,5 +61,15 @@ layout: default
 <br>
 
 
-<span style="font-size: 150%; color:#696969;">INFORMATION 
+<span style="font-size: 150%; color:#696969;">INFORMATION</span>
+
+<br>
+
+<span style="font-size: 150%; color:#696969;">謝辞</span>
+
+本研究会は、2025年度国立天文台研究集会（NAOJ-RCC-2502-0202）として採択されており、
+研究集会経費の助成を受け開催いたします。
+またこの他にも福井県立大学学会開催支援によるサポートを受けています。
+
+
 
