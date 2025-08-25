@@ -57,11 +57,6 @@ layout: default
 
 <br>
 
-<span style="font-size: 150%; color:#696969;">問い合わせ</span>
-
-福島肇（筑波大学）fukushima_at_ccs.tsukuba.ac.jp
-
-<br>
 
 
 <span style="font-size: 150%; color:#696969;">謝辞</span>
@@ -70,5 +65,11 @@ layout: default
 研究集会経費の助成を受け開催いたします。
 またこの他にも福井県立大学学会開催支援によるサポートを受けています。
 
+<br>
+
+
+<span style="font-size: 150%; color:#696969;">問い合わせ</span>
+
+福島肇（筑波大学）fukushima_at_ccs.tsukuba.ac.jp
 
 
