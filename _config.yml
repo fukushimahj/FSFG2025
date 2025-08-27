@@ -5,7 +5,9 @@ google_analytics: G-YBCR8KCM7R
 theme: jekyll-theme-cayman
 sass:
   style: compressed
-plugins:
-  - jekyll-sitemap
+#plugins:
+#  - jekyll-sitemap
 header_pages:
   - index.md
+  #- registration.md
+  - link.md

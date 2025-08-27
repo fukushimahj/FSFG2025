@@ -21,16 +21,26 @@
         <nav class="top-right-nav">
           <ul>
             {% for my_page in site.header_pages %}
-              {% assign page = site.pages | where: "path", my_page | first %}
-              <li><a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></li>
+              {% assign page_item = site.pages | where: "path", my_page | first %}
+              <li><a href="{{ page_item.url | relative_url }}">{{ page_item.title | escape }}</a></li>
             {% endfor %}
           </ul>
         </nav>
       {% endif %}
 
+      {% if page.url == "/" %}
+        <!-- ホームの場合 -->
+        <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      {% else %}
+        <!-- それ以外のページ -->
+        <h1 class="project-name">{{ page.title | escape }}</h1>
+        {% if page.description %}
+          <h2 class="project-tagline">{{ page.description }}</h2>
+        {% endif %}
+      {% endif %}
 
-  <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-  <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
