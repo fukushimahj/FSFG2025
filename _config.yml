@@ -9,5 +9,5 @@ sass:
 #  - jekyll-sitemap
 header_pages:
   - index.md
-  #- registration.md
+  - registration.md
   - link.md
