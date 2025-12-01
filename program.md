@@ -24,7 +24,7 @@ description:
 |1555|I|今井拓哉 |福井県立大学| 福井の地学・古生物学研究から恐竜を理解する|
 |1640|| 播田實りょう太 |総研大/国立天文台| 大質量星におけるリン合成とリン過剰星の起源|
 | 1700||休憩||
-|1715|| 篠田兼伍 |東京大学| Impacts of hydrogen envelope on supernova fallback and the resulting compact remnant masses|
+|1715|| 篠田兼伍 |東京大学| [失敗型超新星におけるダスト形成](https://fukushimahj.github.io/FSFG2025/pdfs/Shodaisei2025_KENGO_SHINODA.pdf)|
 |1735|| 杉村和幸 |北海道大学| 初代銀河形成シミュレーション：金属度依存Pop II IMFモデルの実装|
 |1755|| 知久真斗 |北海道大学理学院宇宙理学専攻| 環境依存PopIII形成モデルを用いた初代銀河形成シミュレーション|
 |1815|| 松田凌 |北海道大学| 宇宙論的シミュレーションにおけるミニハローの多様性と初代星フィードバックの関係|
