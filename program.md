@@ -13,8 +13,8 @@ description:
 |1025|| 谷川衝 |福井県立大学| 諸注意|
 |1030|I|松本達矢 |東京大学| 潮汐破壊現象|
 |1115|| 鈴口智也 |京都大学| [Quasi-Periodic Eruptions as a probe of Accretion Disk in Tidal Disruption Events](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg_suzuguchi.pdf)|
-|1135|| 田中匠 |KavliIPMU| JWST による初代 Little Red Dots 探査|
-|1155|| 喜友名正樹 |東北大学| SMBH形成問題における軽い種BH急成長シナリオの実現性|
+|1135|| 田中匠 |KavliIPMU| [JWST による初代 Little Red Dots 探査](https://fukushimahj.github.io/FSFG2025/pdfs/FSFG_20251201_TakumiTanaka.pdf)|
+|1155|| 喜友名正樹 |東北大学| [SMBH形成問題における軽い種BH急成長シナリオの実現性](https://fukushimahj.github.io/FSFG2025/pdfs/kiyuna_slide.pdf)|
 |1215||昼食||
 |1330|I|泉拓磨 |国立天文台| [最新観測で迫る銀河とブラックホールの始原的共進化](https://fukushimahj.github.io/FSFG2025/pdfs/Izumi_2025_1stStar_1stGal.pdf)|
 |1415|I|安井千香子 |国立天文台| JWST時代の低金属量星形成：銀河系外縁部と近傍銀河の最新成果|
@@ -26,7 +26,7 @@ description:
 |1700||休憩||
 |1715|| 篠田兼伍 |東京大学| [失敗型超新星におけるダスト形成](https://fukushimahj.github.io/FSFG2025/pdfs/Shodaisei2025_KENGO_SHINODA.pdf)|
 |1735|| 杉村和幸 |北海道大学| 初代銀河形成シミュレーション：金属度依存Pop II IMFモデルの実装|
-|1755|| 知久真斗 |北海道大学| 環境依存PopIII形成モデルを用いた初代銀河形成シミュレーション|
+|1755|| 知久真斗 |北海道大学| [環境依存PopIII形成モデルを用いた初代銀河形成シミュレーション](https://fukushimahj.github.io/FSFG2025/pdfs/FSFG2025_知久真斗.pdf)|
 |1815|| 松田凌 |北海道大学| 宇宙論的シミュレーションにおけるミニハローの多様性と初代星フィードバックの関係|
 
 
