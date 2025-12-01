@@ -12,7 +12,7 @@ description:
 |:-:|:-:|:----:|:-----:|----|
 |1025|| 谷川衝 |福井県立大学| 諸注意|
 |1030|I|松本達矢 |東京大学| 潮汐破壊現象|
-|1115|| 鈴口智也 |京都大学| Quasi-Periodic Eruptions as a probe of Accretion Disk in Tidal Disruption Events|
+|1115|| 鈴口智也 |京都大学| [Quasi-Periodic Eruptions as a probe of Accretion Disk in Tidal Disruption Events](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg_suzuguchi.pdf)|
 |1135|| 田中匠 |KavliIPMU| JWST による初代 Little Red Dots 探査|
 |1155|| 喜友名正樹 |東北大学| SMBH形成問題における軽い種BH急成長シナリオの実現性|
 | 1215||昼食||
