@@ -48,7 +48,7 @@ description:
 |1345|I|福島肇 |筑波大学| 星団形成：高赤方偏移銀河形成とアストロバイオロジーとの接続を目指して|
 | 1430||休憩||
 |1445|I|大橋聡史 |東京大学| [原始惑星系円盤の形成と惑星形成における磁場の役割](https://fukushimahj.github.io/FSFG2025/pdfs/SOhashi.pdf)|
-|1530|| 大山航 |京都大学| 原始惑星系円盤へ後期降着した星間ガスは中心星に到達し得るか? : 内側への質量輸送 VS 質量損失|
+|1530|| 大山航 |京都大学| [原始惑星系円盤へ後期降着した星間ガスは中心星に到達し得るか? : 内側への質量輸送 VS 質量損失](https://fukushimahj.github.io/FSFG2025/pdfs/Ooyama_Kyoto.pdf)|
 |1550|| 吉田壮希 |京都大学理学研究科| [原始星のダスト加熱による分裂典型質量](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg2025_yoshida.pdf), [pptx](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg2025_yoshida.pptx)|
 |1610|| 松永拓巳 |茨城大学| ポリトロープガス雲における連星の種の成長過程|
 | 1630||休憩||
