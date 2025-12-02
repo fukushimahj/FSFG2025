@@ -39,7 +39,7 @@ description:
 |0900|I|平居悠 |東北公益文科大学| [銀河考古学の現状と課題](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg2025_yutakahirai_20251202_Yutaka_Hirai.pdf)|
 |0945|| 岡田寛子 |兵庫県立大学| 明るい金属欠乏星の高分散分光観測|
 |1005|| 石川諒 |東北大学| 単一の初代星超新星爆発由来の第二世代星の抽出|
-|1025|| 定成健児エリック |北海道大学| Exploring the Nature of Pop III Star-Forming Clouds with High-Resolution Cosmological Zoom-in Simulations|
+|1025|| 定成健児エリック |北海道大学| [Exploring the Nature of Pop III Star-Forming Clouds with High-Resolution Cosmological Zoom-in Simulations](https://fukushimahj.github.io/FSFG2025/pdfs/Sadanari_2025.12.pdf)|
 |1045|| 木村和貴 |東北大学| Evolution of Primordial Protostars under Global Gas Accretion in Three-Dimensional Radiation Hydrodynamic Simulations|
 |1105|| 小野壮洵 |京都大学| 機械学習を用いた初代星形成過程における化学進化のエミュレーション|
 | 1125||昼食||
