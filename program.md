@@ -45,7 +45,7 @@ description:
 | 1125||昼食||
 |1255|| 谷川衝 |福井県立大学| 事前説明|
 |1300|I|川島由依 |京都大学| 系外惑星大気の特徴付け|
-|1345|I|福島肇 |筑波大学| [星団形成：高赤方偏移銀河形成とアストロバイオロジーとの接続を目指して](https://fukushimahj.github.io/FSFG2025/pdfs/FSFG2025_Fukushima)|
+|1345|I|福島肇 |筑波大学| [星団形成：高赤方偏移銀河形成とアストロバイオロジーとの接続を目指して](https://fukushimahj.github.io/FSFG2025/pdfs/FSFG2025_Fukushima.pdf)|
 | 1430||休憩||
 |1445|I|大橋聡史 |東京大学| [原始惑星系円盤の形成と惑星形成における磁場の役割](https://fukushimahj.github.io/FSFG2025/pdfs/SOhashi.pdf)|
 |1530|| 大山航 |京都大学| [原始惑星系円盤へ後期降着した星間ガスは中心星に到達し得るか? : 内側への質量輸送 VS 質量損失](https://fukushimahj.github.io/FSFG2025/pdfs/Ooyama_Kyoto.pdf)|
