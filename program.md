@@ -57,7 +57,7 @@ description:
 |1725|| 平野信吾 |神奈川大学| [初代星星団の星質量分布](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg2025_ShingoHirano.pdf)|
 |1745|I|須佐元 |甲南大学理工学部| 初代星形成の理論的研究|
 
-
+懇親会: 19:00-21:00
 
 
 <span style="font-size: 150%; color: black;">12月3日(水)</span>
