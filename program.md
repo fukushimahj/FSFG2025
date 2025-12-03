@@ -41,7 +41,7 @@ description:
 |1005|| 石川諒 |東北大学| 単一の初代星超新星爆発由来の第二世代星の抽出|
 |1025|| 定成健児エリック |北海道大学| [Exploring the Nature of Pop III Star-Forming Clouds with High-Resolution Cosmological Zoom-in Simulations](https://fukushimahj.github.io/FSFG2025/pdfs/Sadanari_2025.12.pdf)|
 |1045|| 木村和貴 |東北大学| [Evolution of Primordial Protostars under Global Gas Accretion in Three-Dimensional Radiation Hydrodynamic Simulations](https://fukushimahj.github.io/FSFG2025/pdfs/kimura_FSFG2025.pdf)|
-|1105|| 小野壮洵 |京都大学| 機械学習を用いた初代星形成過程における化学進化のエミュレーション|
+|1105|| 小野壮洵 |京都大学| [機械学習を用いた初代星形成過程における化学進化のエミュレーション](https://fukushimahj.github.io/FSFG2025/pdfs/FSFG2025_Ono.pdf)|
 | 1125|昼食||||
 |1255|| 谷川衝 |福井県立大学| 事前説明|
 |1300|I|川島由依 |京都大学| 系外惑星大気の特徴付け|
