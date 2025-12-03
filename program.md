@@ -50,7 +50,7 @@ description:
 |1445|I|大橋聡史 |東京大学| [原始惑星系円盤の形成と惑星形成における磁場の役割](https://fukushimahj.github.io/FSFG2025/pdfs/SOhashi.pdf)|
 |1530|| 大山航 |京都大学| [原始惑星系円盤へ後期降着した星間ガスは中心星に到達し得るか? : 内側への質量輸送 VS 質量損失](https://fukushimahj.github.io/FSFG2025/pdfs/Ooyama_Kyoto.pdf)|
 |1550|| 吉田壮希 |京都大学| [原始星のダスト加熱による分裂典型質量](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg2025_yoshida.pdf), [pptx](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg2025_yoshida.pptx)|
-|1610|| 松永拓巳 |茨城大学| ポリトロープガス雲における連星の種の成長過程|
+|1610|| 松永拓巳 |茨城大学| [ポリトロープガス雲における連星の種の成長過程](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg2025_TakumiMatsunaga.pdf)|
 | 1630|休憩||||
 |1645|| 前田龍之介 |東北大学| [宇宙初期のガス衝突による大質量星団形成における紫外線強度の影響](https://fukushimahj.github.io/FSFG2025/pdfs/FSFG_FUKUI_2025_MAEDA.pdf)|
 |1705|| 石田怜士 |筑波大学| 低金属量星団の合体により形成された初代銀河の形態学的特徴|
@@ -73,7 +73,7 @@ description:
 |1100|| Hai-XiaMa |NagoyaUniversity| Pixel-by-Pixel Galaxy SED Fitting Powered by Neural Network Emulators|
 |1120|| 川下大響 |東京大学/理化学研究所| 対不安定超新星の56Ni合成におけるHe燃焼の最重要温度|
 |1140|| 平松大地 |フロリダ大学| 対不安定型超新星の候補捜索と追跡観測|
-|1200|| 水谷耕介 |東京大学| 共通外層期直前に放出されるガスからなる周連星物質に関する3次元流体計算|
-|1220|| 大向一行 |東北大学| 終わりに|
+|1200|| 水谷耕介 |東京大学| [共通外層期直前に放出されるガスからなる周連星物質に関する3次元流体計算](https://fukushimahj.github.io/FSFG2025/pdfs/20251203_FSFG_Mizutani.pdf)|
+|1220|| 大向一行 |東北大学| [終わりに](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg25-Summary.pdf)|
 |1230|昼食||||
 |1315|自由討論・議論 (15:00まで)||||
