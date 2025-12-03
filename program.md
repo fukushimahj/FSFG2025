@@ -52,7 +52,7 @@ description:
 |1550|| 吉田壮希 |京都大学| [原始星のダスト加熱による分裂典型質量](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg2025_yoshida.pdf), [pptx](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg2025_yoshida.pptx)|
 |1610|| 松永拓巳 |茨城大学| ポリトロープガス雲における連星の種の成長過程|
 | 1630|休憩||||
-|1645|| 前田龍之介 |東北大学| 宇宙初期のガス衝突による大質量星団形成における紫外線強度の影響|
+|1645|| 前田龍之介 |東北大学| [宇宙初期のガス衝突による大質量星団形成における紫外線強度の影響](https://fukushimahj.github.io/FSFG2025/pdfs/FSFG_FUKUI_2025_MAEDA.pdf)|
 |1705|| 石田怜士 |筑波大学| 低金属量星団の合体により形成された初代銀河の形態学的特徴|
 |1725|| 平野信吾 |神奈川大学| [初代星星団の星質量分布](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg2025_ShingoHirano.pdf)|
 |1745|I|須佐元 |甲南大学| [初代星形成の理論的研究](https://fukushimahj.github.io/FSFG2025/pdfs/susa.pdf)|
