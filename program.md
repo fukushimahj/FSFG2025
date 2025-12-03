@@ -67,7 +67,7 @@ description:
 |:-:|:-:|:----:|:-----:|----|
 |0900|I|中島王彦 |金沢大学| JWST時代の初代星・初代銀河研究：観測の最前線|
 |0945|| 榎森遼 |東京大学| Narrowband-Filterを用いたz~6.2におけるPopIII銀河の探索|
-|1005|| 渡辺くりあ |総合研究大学院大学| 高い窒素酸素比を持つ高赤方偏移銀河の元素の起源|
+|1005|| 渡辺くりあ |総合研究大学院大学| [高い窒素酸素比を持つ高赤方偏移銀河の元素の起源](https://fukushimahj.github.io/FSFG2025/pdfs/WatanabeKuria_初代星2025.pdf)|
 |1025|| 伊藤茉那 |筑波大学| 3次元輻射輸送計算によるダスト赤外放射の理論予測|
 | 1045|休憩||||
 |1100|| Hai-XiaMa |NagoyaUniversity| Pixel-by-Pixel Galaxy SED Fitting Powered by Neural Network Emulators|
