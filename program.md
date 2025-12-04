@@ -22,7 +22,7 @@ description:
 |1515|| 徳田一起 |香川大学| [低金属量環境での星形成はどこまで普遍的か？：大小マゼラン雲におけるALMAサブpcスケール観測からの検証](https://fukushimahj.github.io/FSFG2025/pdfs/Tokuda_LMCSMC_FukuiPref_v20251201a_Light.pdf)|
 |1535|| 村社伊樹 |九州大学| 強磁場環境下における低金属量星形成|
 |1555|I|今井拓哉 |福井県立大学| 福井の地学・古生物学研究から恐竜を理解する|
-|1640|| 播田實りょう太 |総研大/国立天文台| 大質量星におけるリン合成とリン過剰星の起源|
+|1640|| 播田實りょう太 |総研大/国立天文台| [大質量星におけるリン合成とリン過剰星の起源](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg2025_hatami.pdf)|
 |1700|休憩||||
 |1715|| 篠田兼伍 |東京大学| [失敗型超新星におけるダスト形成](https://fukushimahj.github.io/FSFG2025/pdfs/Shodaisei2025_KENGO_SHINODA.pdf)|
 |1735|| 杉村和幸 |北海道大学| 初代銀河形成シミュレーション：金属度依存Pop II IMFモデルの実装|
