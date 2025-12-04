@@ -5,3 +5,15 @@
 <p align="center">
 <img src="./pictures/251203105354845.JPG" width="950px">
 </p>
+
+<p align="center">
+<img src="./pictures/IMG_2575.jpeg" width="950px">
+</p>
+
+<p align="center">
+<img src="./pictures/IMG_2576.jpeg" width="950px">
+</p>
+
+<p align="center">
+<img src="./pictures/IMG_2593.jpeg" width="950px">
+</p>

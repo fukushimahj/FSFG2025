@@ -57,6 +57,10 @@ title: ホーム
 
 <br>
 
+<span style="font-size: 120%; color: black;">[研究会の様子(写真)](https://fukushimahj.github.io/FSFG2025/pictures)</span>
+
+<br>
+
 <span style="font-size: 150%; color:#696969;">研究会世話人</span>
 
 谷川衝 (福井県立大学: LOC), 梅村雅之 (筑波大学), 大向一行 (東北大学), 衣川智弥(信州大学), 杉村和幸 (北海道大学), 須佐元 (甲南大学), 千秋元(高知高専), 鄭昇明 (MPIA), 冨永望 (国立天文台), 平野信吾 (神奈川大学), 福島肇 (筑波大学), 細川隆史(京都大学), 町田正博 (九州大学), 吉田直紀 (東京大学)
