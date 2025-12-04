@@ -57,7 +57,7 @@ title: ホーム
 
 <br>
 
-<span style="font-size: 120%; color: black;">[研究会の様子(写真)](https://fukushimahj.github.io/FSFG2025/pictures)</span>
+<span style="font-size: 120%; color: black;">[研究会の様子(写真)](https://fukushimahj.github.io/FSFG2025/picture)</span>
 
 <br>
 
