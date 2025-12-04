@@ -15,13 +15,6 @@ title: ホーム
 
 福井駅東口の[AOSSA（アオッサ）](http://www.aossa.jp/)6階607 
 
-<br>
-
-<span style="font-size: 150%;  color:#696969;">参加登録</span>
-
-[こちら](https://forms.gle/czr9RFzgD2YG7o7z5)の登録フォームより申し込みください。
-
-締切日(講演・旅費補助・懇親会): 11月4日9時 (JST)
 
 
 <br>

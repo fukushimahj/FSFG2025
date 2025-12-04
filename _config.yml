@@ -10,5 +10,4 @@ sass:
 header_pages:
   - index.md
   - program.md
-  - registration.md
   - link.md
