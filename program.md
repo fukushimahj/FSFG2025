@@ -53,7 +53,7 @@ description:
 |1610|| 松永拓巳 |茨城大学| [ポリトロープガス雲における連星の種の成長過程](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg2025_TakumiMatsunaga.pdf)|
 | 1630|休憩||||
 |1645|| 前田龍之介 |東北大学| [宇宙初期のガス衝突による大質量星団形成における紫外線強度の影響](https://fukushimahj.github.io/FSFG2025/pdfs/FSFG_FUKUI_2025_MAEDA.pdf)|
-|1705|| 石田怜士 |筑波大学| 低金属量星団の合体により形成された初代銀河の形態学的特徴|
+|1705|| 石田怜士 |筑波大学| [低金属量星団の合体により形成された初代銀河の形態学的特徴](https://fukushimahj.github.io/FSFG2025/pdfs/reishi_ishida_FSFG2025.pdf)|
 |1725|| 平野信吾 |神奈川大学| [初代星星団の星質量分布](https://fukushimahj.github.io/FSFG2025/pdfs/fsfg2025_ShingoHirano.pdf)|
 |1745|I|須佐元 |甲南大学| [初代星形成の理論的研究](https://fukushimahj.github.io/FSFG2025/pdfs/susa.pdf)|
 
@@ -66,7 +66,7 @@ description:
 | 時刻||名前|所属|講演タイトル|
 |:-:|:-:|:----:|:-----:|----|
 |0900|I|中島王彦 |金沢大学| JWST時代の初代星・初代銀河研究：観測の最前線|
-|0945|| 榎森遼 |東京大学| Narrowband-Filterを用いたz~6.2におけるPopIII銀河の探索|
+|0945|| 榎森遼 |東京大学| [Narrowband-Filterを用いたz~6.2におけるPopIII銀河の探索](https://fukushimahj.github.io/FSFG2025/pdfs/emori_fukui.pdf)|
 |1005|| 渡辺くりあ |総合研究大学院大学| [高い窒素酸素比を持つ高赤方偏移銀河の元素の起源](https://fukushimahj.github.io/FSFG2025/pdfs/WatanabeKuria_初代星2025.pdf)|
 |1025|| 伊藤茉那 |筑波大学| 3次元輻射輸送計算によるダスト赤外放射の理論予測|
 | 1045|休憩||||
